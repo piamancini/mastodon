@@ -6,6 +6,9 @@ Mastodon
 
 [travis]: https://travis-ci.org/tootsuite/mastodon
 [code_climate]: https://codeclimate.com/github/tootsuite/mastodon
+[![OpenCollective](https://opencollective.com/mastodon-me-uk/backers/badge.svg)](#backers) 
+[![OpenCollective](https://opencollective.com/mastodon-me-uk/sponsors/badge.svg)](#sponsors)
+
 
 Mastodon is a free, open-source social network server. A decentralized solution to commercial platforms, it avoids the risks of a single company monopolizing your communication. Anyone can run Mastodon and participate in the social network seamlessly.
 
@@ -172,3 +175,73 @@ You can open issues for bugs you've found or features you think are missing. You
 - The error page image courtesy of [Dopatwo](https://www.youtube.com/user/dopatwo)
 
 ![Mastodon error image](https://mastodon.social/oops.png)
+
+## Backers
+
+ [[Become a backer](https://opencollective.com/mastodon-me-uk#backer)]
+
+<a href="https://opencollective.com/mastodon-me-uk/backer/0/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/0/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/1/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/1/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/2/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/2/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/3/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/3/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/4/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/4/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/5/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/5/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/6/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/6/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/7/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/7/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/8/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/8/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/9/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/9/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/10/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/10/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/11/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/11/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/12/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/12/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/13/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/13/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/14/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/14/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/15/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/15/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/16/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/16/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/17/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/17/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/18/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/18/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/19/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/19/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/20/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/20/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/21/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/21/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/22/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/22/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/23/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/23/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/24/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/24/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/25/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/25/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/26/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/26/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/27/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/27/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/28/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/28/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/backer/29/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/backer/29/avatar.svg"></a>
+
+## Sponsors
+
+ [[Become a sponsor](https://opencollective.com/mastodon-me-uk#sponsor)]
+
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/0/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/1/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/2/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/3/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/4/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/5/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/6/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/7/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/8/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/9/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/9/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/10/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/10/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/11/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/11/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/12/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/12/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/13/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/13/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/14/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/14/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/15/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/15/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/16/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/16/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/17/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/17/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/18/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/18/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/19/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/19/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/20/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/20/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/21/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/21/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/22/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/22/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/23/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/23/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/24/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/24/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/25/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/25/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/26/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/26/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/27/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/27/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/28/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/28/avatar.svg"></a>
+<a href="https://opencollective.com/mastodon-me-uk/sponsor/29/website" target="_blank"><img src="https://opencollective.com/mastodon-me-uk/sponsor/29/avatar.svg"></a>
